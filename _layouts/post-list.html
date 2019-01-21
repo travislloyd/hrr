@@ -1,0 +1,15 @@
+---
+layout: full-width 
+---
+{{ content }}
+<h2 id="archive">archive</h2>
+<p> note: sometimes youtube makes me remove songs due to copyright claims.  if you're listening on youtube and suddenly hear silence, skip ahead to the next song or, better yet, download the original file.</p>
+<ul class="myposts">
+{% for post in site.posts reversed %}
+    <li>
+      <span>
+        <a target="_blank" href="{{ post.url }}">{{ post.title }}</a>
+      </span>
+    </li>
+{% endfor %}
+</ul>
