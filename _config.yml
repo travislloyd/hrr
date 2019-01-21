@@ -18,7 +18,7 @@ author: Travis Lloyd
 email: traeve@traeve.com
 description: >- # this means to ignore newlines until "baseurl:"
   hardly relevant records 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/hrr" # the subpath of your site, e.g. /blog
 url: "https://hardlyrelevant.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: travislloyd 
 permalink: none
