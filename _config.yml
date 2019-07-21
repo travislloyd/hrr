@@ -17,7 +17,7 @@ title: hardly relevant records
 author: Travis Lloyd
 email: traeve@traeve.com
 description: >- # this means to ignore newlines until "baseurl:"
-  not for profit label ~~ brooklyn, ny 
+  record label, etc. ~~ brooklyn, ny 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hardlyrelevant.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: travislloyd 
@@ -27,7 +27,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /img/pin_logo.jpg
+      image: /img/pin_logo_horizontal.png
 
 # Build settings
 markdown: kramdown

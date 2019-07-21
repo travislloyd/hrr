@@ -1,6 +1,6 @@
 ---
 title: hardly relevant records 
-subtitle: not for profit label ~~ brooklyn, ny
+subtitle: record label, etc. ~~ brooklyn, ny
 layout: padded-page
 ---
 ### my sins -- buzz me in 
