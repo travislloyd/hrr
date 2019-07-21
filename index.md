@@ -1,6 +1,6 @@
 ---
 title: hardly relevant records 
-subtitle: record label, etc. ~~ brooklyn, ny
+subtitle: record label, etc. ~~ brooklyn, ny <span>@hardly__relevant</span>
 layout: padded-page
 ---
 ### nightmom -- glider heaven 
