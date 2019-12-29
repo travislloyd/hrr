@@ -3,6 +3,14 @@ title: hardly relevant records
 subtitle: record label, etc. ~~ brooklyn, ny <span>@hardly__relevant</span>
 layout: padded-page
 ---
+### nightmom -- drain diaries
+##### "imperfect and unfinished"
+<a href="https://nightmom.bandcamp.com/album/drain-diaries">
+![drain_diaries](/img/drain_diaries.jpg){:class="img-responsive"}
+</a>
+
+
+### <br>
 ### nightmom -- glider heaven 
 ##### "oh how sweet it is to ride the wind"
 <a href="https://nightmom.bandcamp.com/album/glider-heaven">
