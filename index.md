@@ -3,9 +3,21 @@ title: hardly relevant records
 subtitle: record label, etc. ~~ brooklyn, ny <span>@hardly__relevant</span>
 layout: padded-page
 ---
+### my sins -- manhattan (live) 
+##### murray condo music video ~ live @ cherry street nov. 2019 
+<a target="_blank" href="https://www.youtube.com/watch?v=NLrQ-5kajz8">
+![manhattan_live](/img/manhattan.jpg){:class="img-responsive"}
+</a>
+
+<div style="text-align: center">
+<a target="_blank" href="https://mysins.bandcamp.com/track/manhattan-live">download single</a>
+</div>
+
+
+### <br>
 ### nightmom -- drain diaries
 ##### "imperfect and unfinished"
-<a href="https://nightmom.bandcamp.com/album/drain-diaries">
+<a target="_blank" href="https://nightmom.bandcamp.com/album/drain-diaries">
 ![drain_diaries](/img/drain_diaries.jpg){:class="img-responsive"}
 </a>
 
@@ -13,7 +25,7 @@ layout: padded-page
 ### <br>
 ### nightmom -- glider heaven 
 ##### "oh how sweet it is to ride the wind"
-<a href="https://nightmom.bandcamp.com/album/glider-heaven">
+<a target="_blank" href="https://nightmom.bandcamp.com/album/glider-heaven">
 ![glider heaven](/img/glider_heaven_cropped.png){:class="img-responsive"}
 </a>
 
@@ -21,6 +33,6 @@ layout: padded-page
 ### <br>
 ### my sins -- buzz me in 
 ##### "burnout rock for big city romantics"
-<a href="https://mysins.bandcamp.com">
+<a target="_blank" href="https://mysins.bandcamp.com/album/buzz-me-in">
 ![my sins](/img/buzz_me_in.gif){:class="img-responsive"}
 </a>
