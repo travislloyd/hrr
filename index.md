@@ -3,6 +3,18 @@ title: hardly relevant records
 subtitle: record label, etc. ~~ brooklyn, ny <span>@hardly__relevant</span>
 layout: padded-page
 ---
+<a target="_blank" href="https://nightmom.bandcamp.com/album/songs-from-the-other-room">
+![songs_from_the_other_room](/img/sftor.gif){:class="img-responsive"}
+</a>
+
+
+### <br>
+<a target="_blank" href="https://mysins.bandcamp.com/album/heavens-house-band">
+![heavens_house_band](/img/hhb.png){:class="img-responsive"}
+</a>
+
+
+### <br>
 ### my sins -- manhattan (live) 
 ##### murray condo music video ~ live @ cherry street nov. 2019 
 <a target="_blank" href="https://www.youtube.com/watch?v=NLrQ-5kajz8">
